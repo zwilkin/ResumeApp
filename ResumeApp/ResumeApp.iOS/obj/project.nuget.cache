@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpsZ4kGmx5wd77RizN6stP7OI38BnOZRhJ580NZe3QX2F3QnJNNVjOJM1yvUmdsVO1u9DV5eIk8LgI/bPA582A==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\ResumeApp\\ResumeApp\\ResumeApp.iOS\\ResumeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zach\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Zach\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
